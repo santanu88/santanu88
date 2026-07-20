@@ -15,7 +15,7 @@
 
 ---
 
-### 💼 About Me
+### About Me
 
 Full Stack Engineer with **1+ year** of experience building production web apps end-to-end — frontend, backend, and API design.
 
@@ -25,7 +25,7 @@ Full Stack Engineer with **1+ year** of experience building production web apps 
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Core Stack
 
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
@@ -45,6 +45,12 @@ Full Stack Engineer with **1+ year** of experience building production web apps 
 </p>
 
 ---
+
+### 📊 Language Breakdown
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanu88&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=santanu88&style=flat-square&color=blue" alt="profile views" />
