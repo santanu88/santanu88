@@ -1,107 +1,80 @@
-<h1 align="center">Santanu 👋</h1>
-<h3 align="center">Senior Full Stack Engineer | 10+ Years Building Scalable Web Products</h3>
+<h1 align="center">Hi👋, I'm santanu swain</h1>
+<h3 align="center">ull Stack Engineer | 1+ Years Building Scalable Web Products</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-handle" target="blank">
+  <a href="https://www.linkedin.com/in/santanu-swain/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:shantanu.swain23@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com" target="blank">
+  <!-- <a href="https://your-portfolio.com" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://calendly.com/your-handle" target="blank">
-    <img src="https://img.shields.io/badge/Book_a_Call-4285F4?style=flat-square&logo=googlemeet&logoColor=white" />
-  </a>
+  </a> -->
+ <a href="https://x.com/Shantanu2332" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" />
+</a>
+  <a href="discordapp.com/users/1219314261420019795" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+</a>
 </p>
 
 ---
 
 ### 💼 Summary
 
-Full Stack Engineer with **10+ years** of experience designing, building, and scaling production web applications end-to-end — from architecture and API design to frontend delivery and DevOps. Comfortable owning a codebase from zero to production, leading small engineering teams, and working directly with stakeholders to turn business goals into shipped software.
+Full Stack Engineer with **2+ years** of experience designing, building, and scaling production web applications end-to-end — from architecture and API design to frontend delivery and DevOps. Comfortable owning a codebase from zero to production, leading small engineering teams, and working directly with stakeholders to turn business goals into shipped software.
 
-- 🏢 Currently: **Senior Full Stack Engineer** at **[Company Name]**
+- 🏢 Currently: **Full Stack Engineer** at **[Ephorsys pvt ltd]**
 - 🌍 Open to: **Remote / relocation** roles with international teams
 - 🧩 Specialties: **System design, API architecture, performance optimization, team mentorship**
-- 📈 Track record: **[e.g. "Led migration serving 2M+ users", "Cut API latency by 40%", "Shipped 15+ production apps"]**
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **shantanu.swain23@gmail.com**
 
 ---
 
-### 🛠️ Core Stack
-
+### Core Stack
+ 
+**Languages**
+ 
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
+  <a href="https://www.typescriptlang.org/" target="blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
+</p>
 **Frontend**
-
+ 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <a href="https://react.dev/" target="blank"><img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
+  <a href="https://nextjs.org/" target="blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /></a>
+  <a href="https://redux-toolkit.js.org/" target="blank"><img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" /></a>
+  <a href="https://tailwindcss.com/" target="blank"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /></a>
+  <a href="https://ui.shadcn.com/" target="blank"><img src="https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square&logo=shadcnui&logoColor=white" /></a>
+  <a href="https://mui.com/" target="blank"><img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" /></a>
+  <a href="https://ui.aceternity.com/" target="blank"><img src="https://img.shields.io/badge/Aceternity_UI-111111?style=flat-square" /></a>
 </p>
-
-**Backend & APIs**
-
+**Backend**
+ 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <a href="https://nodejs.org/" target="blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /></a>
+  <a href="https://expressjs.com/" target="blank"><img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/RESTful_API_Design-005571?style=flat-square" />
+  <a href="https://jwt.io/" target="blank"><img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /></a>
+  <a href="https://socket.io/" target="blank"><img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" /></a>
+  <a href="https://firebase.google.com/" target="blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /></a>
+  <a href="https://zod.dev/" target="blank"><img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" /></a>
+  <a href="https://github.com/expressjs/multer" target="blank"><img src="https://img.shields.io/badge/Multer-FF6600?style=flat-square" /></a>
 </p>
-
-**Data & Infrastructure**
-
+**Database**
+ 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <a href="https://www.mongodb.com/" target="blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/" target="blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></a>
 </p>
 
----
 
-### 📌 Selected Work
 
-> Replace these with your 2–3 strongest projects. CEOs skim — lead with impact, not just tech.
 
-**[Project Name]** — *[One-line impact statement, e.g. "Payments platform processing $X/month across Y countries"]*
-`React` `Node.js` `PostgreSQL` `AWS` — [Live Demo](#) · [Case Study](#)
-
-**[Project Name]** — *[e.g. "Internal tool that cut manual reporting time by 70%"]*
-`Next.js` `GraphQL` `MongoDB` — [Live Demo](#) · [Case Study](#)
-
-**[Project Name]** — *[e.g. "Open-source library with 500+ stars, used by X teams"]*
-`TypeScript` `Node.js` — [Repo](#)
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=santanu88&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanu88&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santanu88&theme=default&hide_border=true" />
-</p>
-
----
-
-### 🎓 Experience Snapshot
-
-| Role | Company | Duration |
-|---|---|---|
-| Senior Full Stack Engineer | [Company Name] | [Year] – Present |
-| Full Stack Developer | [Company Name] | [Year] – [Year] |
-| Software Engineer | [Company Name] | [Year] – [Year] |
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=santanu88&style=flat-square&color=blue" alt="profile views" />
