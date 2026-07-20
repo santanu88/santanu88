@@ -42,6 +42,7 @@ Full Stack Engineer with **2+ years** of experience designing, building, and sca
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
 </p>
+
 **Frontend**
  
 <p>
@@ -53,6 +54,7 @@ Full Stack Engineer with **2+ years** of experience designing, building, and sca
   <a href="https://mui.com/" target="blank"><img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" /></a>
   <a href="https://ui.aceternity.com/" target="blank"><img src="https://img.shields.io/badge/Aceternity_UI-111111?style=flat-square" /></a>
 </p>
+
 **Backend**
  
 <p>
@@ -65,11 +67,34 @@ Full Stack Engineer with **2+ years** of experience designing, building, and sca
   <a href="https://zod.dev/" target="blank"><img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" /></a>
   <a href="https://github.com/expressjs/multer" target="blank"><img src="https://img.shields.io/badge/Multer-FF6600?style=flat-square" /></a>
 </p>
+
 **Database**
  
 <p>
   <a href="https://www.mongodb.com/" target="blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></a>
   <a href="https://www.postgresql.org/" target="blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></a>
+</p>
+
+**AI & Automation**
+ 
+<p>
+  <a href="https://ai.google.dev/" target="blank"><img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /></a>
+  <a href="https://n8n.io/" target="blank"><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /></a>
+  <a href="https://openrouter.ai/" target="blank"><img src="https://img.shields.io/badge/OpenRouter-000000?style=flat-square" /></a>
+  <a href="https://www.pinecone.io/" target="blank"><img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" /></a>
+  <a href="https://cloudinary.com/" target="blank"><img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" /></a>
+  <a href="https://vercel.com/" target="blank"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+</p>
+
+**Tools**
+ 
+<p>
+  <a href="https://git-scm.com/" target="blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://turbo.build/repo" target="blank"><img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" /></a>
+  <a href="https://www.postman.com/" target="blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /></a>
+  <a href="https://code.visualstudio.com/" target="blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/" target="blank"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
 </p>
 
 
