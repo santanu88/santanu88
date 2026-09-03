@@ -19,9 +19,11 @@
 
 Full Stack Engineer with **1+ year** of experience building production web apps end-to-end — frontend, backend, and API design.
 
-- 🏢 Currently: **Full Stack Engineer** at **Ephorsys Pvt Ltd**
-- 🌍 Open to: **Remote / relocation** roles with international teams
-- 📫 Reach me: **shantanu.swain23@gmail.com**
+* 🏢 Currently: **Full Stack Engineer** at **Ephorsys Pvt Ltd**
+* 🌍 Open to: **Remote / relocation** roles with international teams
+* 💼 Portfolio: [**View My Portfolio →**](https://santanu23.vercel.app/)
+* 📫 Reach me: **[shantanu.swain23@gmail.com](mailto:shantanu.swain23@gmail.com)**
+
 
 ---
 
