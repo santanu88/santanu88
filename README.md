@@ -17,7 +17,7 @@
 
 ### About Me
 
-Full Stack Engineer with **1+ year** of experience building production web apps end-to-end — frontend, backend, and API design.
+Full Stack Engineer with **2+ year** of experience building production web apps end-to-end — frontend, backend, and API design.
 
 * 🏢 Currently: **Full Stack Engineer** at **Ephorsys Pvt Ltd**
 * 🌍 Open to: **Remote / relocation** roles with international teams
