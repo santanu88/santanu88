@@ -19,22 +19,23 @@
 
 Full Stack Engineer with **2+ years** of experience building production web apps end-to-end: frontend, backend, and API design. I'm now moving deeper into **AI Engineering**, combining my web development background with LLMs, RAG, and agent-based systems.
 
-* 🤖 Currently: **Learning and building in AI Engineering** (LLM apps, RAG, AI agents, automation)
-* 🏢 Previously: **Full Stack Engineer** at **Ephorsys Pvt Ltd**
-* 🌍 Open to: **Remote / relocation** roles with international teams
-* 💼 Portfolio: [**Santanu**](https://www.santanuswain.com/)
-* 📫 Reach me: **[shantanu.swain23@gmail.com](mailto:shantanu.swain23@gmail.com)**
+* Currently: **Learning and building in AI Engineering** (LLM apps, RAG, AI agents, automation)
+* Previously: **Full Stack Engineer** at **Ephorsys Pvt Ltd**
+* Open to: **Remote / relocation** roles with international teams
+* Portfolio: [**Santanu**](https://www.santanuswain.com/)
+* Reach me: **[shantanu.swain23@gmail.com](mailto:shantanu.swain23@gmail.com)**
 
 ---
 
+
 ### Currently Learning
 
-* 🧠 LLM fundamentals and prompt engineering
-* 🔎 RAG (Retrieval-Augmented Generation) and vector databases
-* 🤝 AI agents and tool/function calling
-* 🐍 Python for AI/ML
-* 📊 LLM evaluation, deployment, and monitoring
-* 🔗 Building end-to-end AI features into full stack apps
+- LLM fundamentals and prompt engineering
+- Retrieval-Augmented Generation (RAG) and vector databases
+- AI agents and tool/function calling
+- Python for AI/ML
+- LLM evaluation, deployment, and monitoring
+
 
 ---
 
