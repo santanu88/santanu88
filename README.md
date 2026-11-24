@@ -19,10 +19,10 @@
 
 Full Stack Engineer with **2+ years** of experience building production web apps end-to-end: frontend, backend, and API design. I'm now moving deeper into **AI Engineering**, combining my web development background with LLMs, RAG, and agent-based systems.
 
-* 🏢 Currently: **Full Stack Engineer** at **Ephorsys Pvt Ltd**
-* 🤖 Focus: **AI Engineering** (LLM apps, RAG, AI agents, automation)
+* 🤖 Currently: **Learning and building in AI Engineering** (LLM apps, RAG, AI agents, automation)
+* 🏢 Previously: **Full Stack Engineer** at **Ephorsys Pvt Ltd**
 * 🌍 Open to: **Remote / relocation** roles with international teams
-* 💼 Portfolio: [**Santanu**](https://santanu23.vercel.app/)
+* 💼 Portfolio: [**Santanu**](https://www.santanuswain.com/)
 * 📫 Reach me: **[shantanu.swain23@gmail.com](mailto:shantanu.swain23@gmail.com)**
 
 ---
